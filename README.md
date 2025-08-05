@@ -42,6 +42,9 @@ CUDA_VISIBLE_DEVICES=0 basicsr/train.py -opt options/train/espanet_x2.yml
 
 `````
 
+## Miscellaneous/Notes
+The current code architecture is named ESCANet. The structure is equivalent to ESPANet. The naming is changed for better understanding. 
+
 ## Acknowledgements
 
 This code is built on [BasicSR](https://github.com/XPixelGroup/BasicSR).
